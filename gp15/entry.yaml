@@ -1,0 +1,13 @@
+app_title: "Pizzapatch-in"
+summary: "社内の月例ピザイベント「Pizzapatch」で、参加者が所属チームと名前を選び、楽しくチェックインできるWebアプリ。参加確認の手間を減らし、指パッチからピザが飛び出す演出で、イベントの入口から気分を盛り上げます。（展示版は架空データのみで動く静的デモです。）"
+app_url: "https://saorimatsushima-pizza.github.io/gp-gallery/gallery/"
+developer:
+  name: "saorin"
+  title: "HR Manager／PX Designer"
+article:
+  title: "社内イベントの入口を、ちょっと楽しく。人事が初めて作ったチェックインアプリ「Pizzapatch-in」"
+  body_file: "article.md"
+publication:
+  web_ok: true
+  credits_note: ""
+  reviewers: []
