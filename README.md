@@ -16,7 +16,12 @@
 gallery/
 ├── index.html
 ├── styles.css
-└── app.js
+├── app.js
+└── assets/
+    ├── fredoka-one.ttf   # Fredoka One (SIL OFL 1.1)
+    ├── OFL.txt           # 上記フォントのライセンス
+    ├── icon-32/180/192/512.png
+    └── ogp.jpg
 ```
 
 ## 公開前チェック
